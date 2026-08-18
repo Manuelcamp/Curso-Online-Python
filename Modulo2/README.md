@@ -10,7 +10,7 @@ Modulo 2 Focado em nível intermediário, mostrando funções, dicionários, Pro
 
 5__Methods_Dict3.py: Novos métodos ensinados, focado no get, update, pop e formas dinâmica de atribuição de valores no método update.
 
-
+6__Set.py: Explicado o conjunto do tipo set, tipo mutáveis que só aceitam tipo imutáveis como valores internos. Demonstrado a função própria e natural de remoção de duplicados
 
 
 

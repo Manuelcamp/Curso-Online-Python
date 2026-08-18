@@ -15,4 +15,4 @@ s2 = {2,3,4}
 #Itens que não estão em ambos
 # s3 = s1.symmetric_difference(s2)
 # s3 = s1 ^ s2
-print(s3) 
+# print(s3) 

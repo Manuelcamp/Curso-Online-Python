@@ -24,3 +24,5 @@ Exercicio1.py: criando funções inicias que recebem diversos números sem prede
 Exercicio2.py: Exercicio demonstrando como é a criação de funções que criam outras funções.
 
 Exercicio3.py: Exercicio de pergunta e respostas, onde contabiliza a quantidade perguntas certas no final, as perguntas vem em formato de dicionário, foi permitido manipular da maneira que se sentisse mais confortável, escolhi listas, consegui chegar até o fim da resolução do exercicio, tempo estimado que demorei foi de 50 minutos
+
+Exercicio4.py: Desafio concluido! em menos tempo, certa de 20-30 minutos, onde temos uma lista com várias lista, e precisamos criar um algoritmo que verifique cada lista, onde, caso haja um número repetido, ele pegue o primeiro número que se repete e retorne, caso não haja retorne -1

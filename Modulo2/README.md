@@ -8,11 +8,15 @@ Modulo 2 Focado em nível intermediário, mostrando funções, dicionários, Pro
 
 4__Methods_Dict2.py: Aprofundado sobre o método copy, explicando como que funciona atribuição do valor por conta de ser um tipo mutável, e como fazer uma cópia realmente sem ficar com o original e a copia apontado para os mesmo valores na memoria pelo modulo copy importado e dando um deepcopy.
 
-5__Methods_Dict3.py
+5__Methods_Dict3.py: Novos métodos ensinados, focado no get, update, pop e formas dinâmica de atribuição de valores no método update.
 
 
 
 
-Exercicio1args.py: criando funções inicias que recebem diversos números sem predefinir a quantidade de parametros que pode receber por meio da função *args como parâmetro, após isso é criado uma segunda função que mostra se o número é par ou impar.
+
+
+Exercicio1.py: criando funções inicias que recebem diversos números sem predefinir a quantidade de parametros que pode receber por meio da função *args como parâmetro, após isso é criado uma segunda função que mostra se o número é par ou impar.
 
 Exercicio2.py: Exercicio demonstrando como é a criação de funções que criam outras funções.
+
+Exercicio3.py: Exercicio de pergunta e respostas, onde contabiliza a quantidade perguntas certas no final, as perguntas vem em formato de dicionário, foi permitido manipular da maneira que se sentisse mais confortável, escolhi listas, consegui chegar até o fim da resolução do exercicio, tempo estimado que demorei foi de 50 minutos

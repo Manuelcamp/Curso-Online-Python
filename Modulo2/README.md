@@ -12,6 +12,10 @@ Modulo 2 Focado em nível intermediário, mostrando funções, dicionários, Pro
 
 6__Set.py: Explicado o conjunto do tipo set, tipo mutáveis que só aceitam tipo imutáveis como valores internos. Demonstrado a função própria e natural de remoção de duplicados, métodos úteis do tipo set também são explicados!
 
+7__Set.py: Demonstrado métodos de conjunto matemático, como união, intersecção, diferença e diferença simétrica.
+
+8__ExampleSet.py:
+
 
 
 

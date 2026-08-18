@@ -12,7 +12,7 @@ Requisitos:
     Se não encontrar duplicados na lista, retorne -1
 """
 
-veficadora = []
+
 lista_de_listas_de_inteiros = [
     [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
     [9, 1, 8, 9, 9, 7, 2, 1, 6, 8],
@@ -28,20 +28,20 @@ lista_de_listas_de_inteiros = [
     [10, 9, 8, 7, 6, 5, 4, 3, 2, 1],
 ]
 
-stopar = False
+
+def encontra_primeiro_duplicado(lista_de_inteiros):
+    veficadora = []
+    for numero in lista:
+            if(numero in veficadora):
+                print(f'{lista} {numero}')
+                veficadora = []
+                break  
+            else:
+                veficadora.append(numero)
 
 for lista in lista_de_listas_de_inteiros:
     lista_set = set(lista)
     if(len(lista_set) < len(lista)):
-        stopar = False
-        for numero in lista:
-            if(stopar == True):
-                break
-            if(numero in veficadora):
-                print(f'{numero}')
-                stopar = True
-                veficadora = []
-            else:
-                veficadora.append(numero)   
+       encontra_primeiro_duplicado(lista) 
     else:
-        print(-1)
+        print(lista, -1)

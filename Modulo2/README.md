@@ -6,7 +6,9 @@ Modulo 2 Focado em nível intermediário, mostrando funções, dicionários, Pro
 
 3__Methods_Dict.py: Aprendidos os métodos keys, values, items, e setdefault do dictionary, e como manipular com base nesses métodos.
 
-4__Methods_Dict2.py:
+4__Methods_Dict2.py: Aprofundado sobre o método copy, explicando como que funciona atribuição do valor por conta de ser um tipo mutável, e como fazer uma cópia realmente sem ficar com o original e a copia apontado para os mesmo valores na memoria pelo modulo copy importado e dando um deepcopy.
+
+5__Methods_Dict3.py
 
 
 

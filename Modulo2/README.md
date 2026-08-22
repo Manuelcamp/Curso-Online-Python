@@ -16,7 +16,9 @@ Modulo 2 Focado em nível intermediário, mostrando funções, dicionários, Pro
 
 8__ExampleSet.py: Exemplo de script de jogo de encontre a letra com validação em set para economia de tempo e espaço com o set ao inves de listas.
 
-9__Lambda.py:
+9__Lambda.py: Foi inicializado o conteúdo sobre expressão lambda, mostrando como simplificar uma organização de lista que antes estava como função em poucas linhas de código usando lambda.
+
+10__Lambda2.py: Criamos funções lambdas substituindo antigas funções, a primeira uma função de soma com 2 soluções em lambda e outra de cria multiplicador.
 
 
 Exercicio1.py: criando funções inicias que recebem diversos números sem predefinir a quantidade de parametros que pode receber por meio da função *args como parâmetro, após isso é criado uma segunda função que mostra se o número é par ou impar.

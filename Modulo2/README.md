@@ -36,6 +36,8 @@ Modulo 2 Focado em nível intermediário, mostrando funções, dicionários, Pro
 
 18__Truthy_False.py:Ensinado sobre como alguma classe pode ser considerada falsa ou verdadeira, dependendo do valor ou ausência de valor atribuido, e também um comentário sobre tipo imutáveis e mutáveis.
 
+19__Dir_Hasattar_gettart.py: ensinados o método dir no debug para puxar os métodos de um determinado objeto, e o hasattar para conferir se tá objeto tem o método especifíco e o gettart para executar o método de uma maneira diferente.
+
 
 
 

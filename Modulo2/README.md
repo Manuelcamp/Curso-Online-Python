@@ -48,9 +48,9 @@ Modulo 2 Focado em nível intermediário, mostrando funções, dicionários, Pro
 
 24__Try_Except_PT1.py: Tratamento de erros especifícos com try e except e vendo como funciona o fluxo do código com eles, e o erros silenciosos que podem ser omitidos no uso errado do método.
 
+25__Try_Except_PT2.py: Tratamento de erro isntanciando o erro em um objeto error e podendo mostrar classe, nome, dentre outros parâmetros do erro e também, não recomendado, mas demonstrado como tratar duas execeções em uma linha. 
 
-
-
+26__Try_Except_PT3.py: Aprendido sobre finally com try e também o else, e cada uma de suas peculiaridades, como finally sempre executando mesmo se dar erro no código, e else executando apenas se o código não der erro algum.
 
 Exercicio1.py: criando funções inicias que recebem diversos números sem predefinir a quantidade de parametros que pode receber por meio da função *args como parâmetro, após isso é criado uma segunda função que mostra se o número é par ou impar.
 

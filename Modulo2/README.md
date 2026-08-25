@@ -40,6 +40,10 @@ Modulo 2 Focado em nível intermediário, mostrando funções, dicionários, Pro
 
 20__iterabors.py: Ensinado sobre o Iterator, e como funciona os métodos presente neles e seus conceitos.
 
+21__iteraborsPT2.py: Ensinado sobre generator expression, demonstrado como é seu funcionamento de entregar uma informação por vez, sem armazenar na memória, sendo mais leve, mas tendo desvantagens como não poder acessar determinado indice, pois afinal, não está na memória.
+
+22__Generator_Functions:
+
 
 
 

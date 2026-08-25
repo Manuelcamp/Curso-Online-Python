@@ -24,6 +24,9 @@ Modulo 2 Focado em nível intermediário, mostrando funções, dicionários, Pro
 
 12__List_Comprh.py: List Comprehension, aprendido os conceitos iniciais e de como colocar um for dentro dos parâmetros na hora de iniciar uma lista.
 
+13__List ComprehensionPT2.py:PT2 do conceitos de list comprehension, ensinado agora como alterar elementos especifíco com parâmetros e ainda colocar condições para alterar aqueles elementos.
+
+
 Exercicio1.py: criando funções inicias que recebem diversos números sem predefinir a quantidade de parametros que pode receber por meio da função *args como parâmetro, após isso é criado uma segunda função que mostra se o número é par ou impar.
 
 Exercicio2.py: Exercicio demonstrando como é a criação de funções que criam outras funções.

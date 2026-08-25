@@ -44,7 +44,7 @@ Modulo 2 Focado em nível intermediário, mostrando funções, dicionários, Pro
 
 22__Generator_Functions: Aprendido sobre generator function, de como funciona por dentro do generator, dentro do conceito de yield, maximum e programação dinâmica.
 
-
+23__Yield.py: utilizamos o yield from para criarmos geradores dinâmicos que aceitam outros geradores como parâmetros e percorremos eles com for e print()
 
 
 

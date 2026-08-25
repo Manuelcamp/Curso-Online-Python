@@ -54,7 +54,7 @@ Modulo 2 Focado em nível intermediário, mostrando funções, dicionários, Pro
 
 27__Raise.py: Ensinado como lançar erros personalizados no programa, definindo o erro e lançar com mensagens personalizada.
 
-
+28__Modulos.py: Ensina sobre como importa módulos, e como fazer as nomeclaturas do próprios.
 
 
 Exercicio1.py: criando funções inicias que recebem diversos números sem predefinir a quantidade de parametros que pode receber por meio da função *args como parâmetro, após isso é criado uma segunda função que mostra se o número é par ou impar.

@@ -32,7 +32,7 @@ Modulo 2 Focado em nível intermediário, mostrando funções, dicionários, Pro
 15__List ComprehensionPT4.py: Utilizamos os List Comprehesion para criar diversos tipos diferentes de lista, com diversos parâmetros, focando principalmente em um for dentro de um for para criação dessas listas.
 
 
-
+16__Dictionary_Comprehesion.py: Aprendido Dictionary e Set Comprehesion, conceito interessante e bom para manipulação dos elementos respectivos.
 
 Exercicio1.py: criando funções inicias que recebem diversos números sem predefinir a quantidade de parametros que pode receber por meio da função *args como parâmetro, após isso é criado uma segunda função que mostra se o número é par ou impar.
 

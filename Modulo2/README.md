@@ -29,6 +29,8 @@ Modulo 2 Focado em nível intermediário, mostrando funções, dicionários, Pro
 14__List ComprehensionPT3.py: Importamos o módulo pprint para facilitar a visualização de dados da lista, e adicionamos um filtro simples na lista anterior de produtos.
 
 
+15__List ComprehensionPT4.py: Utilizamos os List Comprehesion para criar diversos tipos diferentes de lista, com diversos parâmetros, focando principalmente em um for dentro de um for para criação dessas listas.
+
 
 
 

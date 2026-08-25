@@ -38,7 +38,7 @@ Modulo 2 Focado em nível intermediário, mostrando funções, dicionários, Pro
 
 19__Dir_Hasattar_gettart.py: ensinados o método dir no debug para puxar os métodos de um determinado objeto, e o hasattar para conferir se tá objeto tem o método especifíco e o gettart para executar o método de uma maneira diferente.
 
-
+20__iterabors.py: Ensinado sobre o Iterator, e como funciona os métodos presente neles e seus conceitos.
 
 
 

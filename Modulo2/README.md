@@ -20,6 +20,9 @@ Modulo 2 Focado em nível intermediário, mostrando funções, dicionários, Pro
 
 10__Lambda2.py: Criamos funções lambdas substituindo antigas funções, a primeira uma função de soma com 2 soluções em lambda e outra de cria multiplicador.
 
+11__Empacotamento.py: Aprendido sobre KWargs arguments e conceitos de acoplamento e desacoplamento. 
+
+12__List_Comprh.py: List Comprehension, aprendido os conceitos iniciais e de como colocar um for dentro dos parâmetros na hora de iniciar uma lista.
 
 Exercicio1.py: criando funções inicias que recebem diversos números sem predefinir a quantidade de parametros que pode receber por meio da função *args como parâmetro, após isso é criado uma segunda função que mostra se o número é par ou impar.
 

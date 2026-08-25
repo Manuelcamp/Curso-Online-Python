@@ -46,7 +46,7 @@ Modulo 2 Focado em nível intermediário, mostrando funções, dicionários, Pro
 
 23__Yield.py: utilizamos o yield from para criarmos geradores dinâmicos que aceitam outros geradores como parâmetros e percorremos eles com for e print()
 
-
+24__Try_Except_PT1.py: Tratamento de erros especifícos com try e except e vendo como funciona o fluxo do código com eles, e o erros silenciosos que podem ser omitidos no uso errado do método.
 
 
 

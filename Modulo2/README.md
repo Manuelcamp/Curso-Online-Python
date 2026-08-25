@@ -26,6 +26,11 @@ Modulo 2 Focado em nível intermediário, mostrando funções, dicionários, Pro
 
 13__List ComprehensionPT2.py:PT2 do conceitos de list comprehension, ensinado agora como alterar elementos especifíco com parâmetros e ainda colocar condições para alterar aqueles elementos.
 
+14__List ComprehensionPT3.py: Importamos o módulo pprint para facilitar a visualização de dados da lista, e adicionamos um filtro simples na lista anterior de produtos.
+
+
+
+
 
 Exercicio1.py: criando funções inicias que recebem diversos números sem predefinir a quantidade de parametros que pode receber por meio da função *args como parâmetro, após isso é criado uma segunda função que mostra se o número é par ou impar.
 

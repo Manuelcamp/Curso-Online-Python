@@ -52,6 +52,11 @@ Modulo 2 Focado em nível intermediário, mostrando funções, dicionários, Pro
 
 26__Try_Except_PT3.py: Aprendido sobre finally com try e também o else, e cada uma de suas peculiaridades, como finally sempre executando mesmo se dar erro no código, e else executando apenas se o código não der erro algum.
 
+27__Raise.py: Ensinado como lançar erros personalizados no programa, definindo o erro e lançar com mensagens personalizada.
+
+
+
+
 Exercicio1.py: criando funções inicias que recebem diversos números sem predefinir a quantidade de parametros que pode receber por meio da função *args como parâmetro, após isso é criado uma segunda função que mostra se o número é par ou impar.
 
 Exercicio2.py: Exercicio demonstrando como é a criação de funções que criam outras funções.

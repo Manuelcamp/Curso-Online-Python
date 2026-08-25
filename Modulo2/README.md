@@ -34,6 +34,15 @@ Modulo 2 Focado em nível intermediário, mostrando funções, dicionários, Pro
 
 17__isinstance.py: Utilizamos isinstance quando não estamos trabalhando com tipos uniformes em dicionários para conseguir manipular os valores do próprio.
 
+18__Truthy_False.py:Ensinado sobre como alguma classe pode ser considerada falsa ou verdadeira, dependendo do valor ou ausência de valor atribuido, e também um comentário sobre tipo imutáveis e mutáveis.
+
+
+
+
+
+
+
+
 
 
 

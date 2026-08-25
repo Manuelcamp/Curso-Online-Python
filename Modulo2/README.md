@@ -42,7 +42,7 @@ Modulo 2 Focado em nível intermediário, mostrando funções, dicionários, Pro
 
 21__iteraborsPT2.py: Ensinado sobre generator expression, demonstrado como é seu funcionamento de entregar uma informação por vez, sem armazenar na memória, sendo mais leve, mas tendo desvantagens como não poder acessar determinado indice, pois afinal, não está na memória.
 
-22__Generator_Functions:
+22__Generator_Functions: Aprendido sobre generator function, de como funciona por dentro do generator, dentro do conceito de yield, maximum e programação dinâmica.
 
 
 

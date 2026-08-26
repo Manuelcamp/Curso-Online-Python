@@ -56,6 +56,10 @@ Modulo 2 Focado em nível intermediário, mostrando funções, dicionários, Pro
 
 28__Modulos.py: Ensina sobre como importa módulos, e como fazer as nomeclaturas do próprios.
 
+29__Modularização.py: Aulão sobre como funciona os modulos, não convencional, mas ensina adicionar caminhos ao path dos modulos e também como criar módulos, importa tudo, só em partes e etc...
+
+30__Variaveis_Livres.py: Utilizamos conceitos de variáveis locais, não locais, e globais, e também nonlocals para reutilzar variáveis fora do escopo.
+
 
 Exercicio1.py: criando funções inicias que recebem diversos números sem predefinir a quantidade de parametros que pode receber por meio da função *args como parâmetro, após isso é criado uma segunda função que mostra se o número é par ou impar.
 
@@ -64,3 +68,7 @@ Exercicio2.py: Exercicio demonstrando como é a criação de funções que criam
 Exercicio3.py: Exercicio de pergunta e respostas, onde contabiliza a quantidade perguntas certas no final, as perguntas vem em formato de dicionário, foi permitido manipular da maneira que se sentisse mais confortável, escolhi listas, consegui chegar até o fim da resolução do exercicio, tempo estimado que demorei foi de 50 minutos
 
 Exercicio4.py: Desafio concluido! em menos tempo, certa de 20-30 minutos, onde temos uma lista com várias lista, e precisamos criar um algoritmo que verifique cada lista, onde, caso haja um número repetido, ele pegue o primeiro número que se repete e retorne, caso não haja retorne -1
+
+Exercicio5.py: 3 Exercicios em um, os # do exericio não são I.A são as orientações do professor para realização do exericício, primeira tarefa, pegar a lista com dict dentro e aumentar o valor do preço dos produtos em 10%, segunda tarefa, ordenar a lista pela ordem do menor para o maior pelo nome, e terceira tarefa, ordenar a lista do maior para o menor em preço
+
+Exercicio6.py: Adiar a execução de um função, como se ela fosse uma criadora de função, que recebe uma função e um argumento, e depois disso com essa função criado com base nessa função, podemos mandar o segundo argumento para a função criada que executara a função e retornara o resultado final...Jesus, que explicação difícil, não sei se deu para entender bem, mas qualquer coisa, olha o código.
